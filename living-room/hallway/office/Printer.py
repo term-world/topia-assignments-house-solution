@@ -28,7 +28,7 @@ class Printer(FixtureSpec):
 def main():
 
   n = narrator.Narrator()
-  n.path.change(6)
+  n.path.change({"act": 6, "scene": 0})
   
   if Checkpoint.check_flag("ink"):
     n.path.scene = 2
