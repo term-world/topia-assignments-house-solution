@@ -9,7 +9,7 @@ class GameCylider(FixtureSpec):
 
 def main():
     n = narrator.Narrator()
-    n.path.change(8.0)
+    n.path.change({"act": 8, "scene": 0})
     n.narrate()
 
 if __name__ == "__main__":
