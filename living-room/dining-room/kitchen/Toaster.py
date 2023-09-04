@@ -25,7 +25,7 @@ class Toaster(FixtureSpec):
 
 def main():
     n = narrator.Narrator()
-    n.path.change(10.0)
+    n.path.change({"act": 10, "scene": 0})
     n.narrate()
 
     t = Toaster()
