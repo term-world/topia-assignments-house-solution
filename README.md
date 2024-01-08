@@ -16,6 +16,22 @@ In our exclusive interview with **The Landlord**, it was revealed that his able 
 
 Word must've gotten out; nearly fifty new tenants have applied to live in the six neighborhoods owned and maintained by **The Landlord**. Only time will tell what these wide-eyed tenants will bring to `term-world`...
 
+# Table of Contents
+* Before the assignment
+  * [Overview](#overview)
+  * [SSH Keys](#ssh-keys)
+* During the assignment
+  * [Basic Navigation](#basic-navigation)
+  * [House Contents](#getting-the-contents-of-your-house)
+  * [House Map](#map-of-the-house)
+  * [Unpacking a Box](#unpacking-a-box)
+  * [An Important Lesson About Term-world](#an-important-lesson-about-term-world)
+* After the assignment
+  * [Evaluating the Content](#evaluating-house-content)
+  * [Submitting the Assignment/Saving Progress](#submitting-the-assignmentsaving-progress)
+  * [Note About Your First Time Completing this Process](#note-on-your-first-time-completing-this-process)
+  * [Backup Policy Reminder](#backup-policy-reminder)
+
 ## Overview
 
 In this activity, we cover:
